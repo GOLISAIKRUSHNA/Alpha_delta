@@ -1,0 +1,26 @@
+
+
+
+h1 {
+    color: aqua;
+    
+    /* text-align: right; */
+    /* border: solid; */
+     /* width: 60%;  according to parent element */
+     text-align: center;
+    text-decoration: wavy red underline;
+}
+h2 {
+    color: orange;
+    text-align:center
+
+}
+p {
+   color: black;
+   text-align:justify;
+}
+
+a{
+    /* text-decoration: none; */
+    color: rgb(0, 204, 255);
+}
