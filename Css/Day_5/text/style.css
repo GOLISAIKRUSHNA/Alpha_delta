@@ -9,6 +9,9 @@ h1 {
      /* width: 60%;  according to parent element */
      text-align: center;
     text-decoration: wavy red underline;
+    letter-spacing: 10px;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
 }
 h2 {
     color: orange;
@@ -18,9 +21,22 @@ h2 {
 p {
    color: black;
    text-align:justify;
+   line-height: 2;
+   font-size: 15px;
 }
 
 a{
     /* text-decoration: none; */
     color: rgb(0, 204, 255);
+}
+
+li{
+    line-height:1;
+}
+
+button{
+    text-align: center;
+    width: 100%;
+    border: solid silver 10px;
+    background: gold;
 }
