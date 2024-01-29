@@ -1,0 +1,17 @@
+/* h1{
+    display: inline;
+    border: solid black 2px;
+}
+span{
+    display: block;
+} */
+
+
+span{ /* //overall it will work in horizontal only height and width will not work */
+    font-weight: bold;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    border: 2px black solid;
+    margin: 100px;
+}

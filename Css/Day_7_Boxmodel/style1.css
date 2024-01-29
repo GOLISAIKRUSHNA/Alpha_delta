@@ -1,0 +1,37 @@
+div{
+    height: 100px;
+    width: 500px;
+    background:lightblue;
+    border: 5px solid black;
+    /* border-style: dashed; */
+    /* border-left: 5px dashed blue;
+    border-right: 5px dashed blue;
+    border-top: 5px solid gold; */
+    border-radius: 20px;
+    /* border-top-right-radius: 10px; */
+    /* padding: 25px;
+    padding:30px 50px */
+    padding:30px 20px 0px 20px;
+    margin: 20px 25px 20px;
+
+}
+h1{
+    border-radius: 10px;
+    text-align: center;
+
+    border:2px dashed blue;
+    width: 45%;
+    /* align-content: center */
+    /* padding: 10px; */
+    margin: 0px;
+}
+
+
+button{
+    border: 5px solid black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background: lightcoral;
+    margin: 0px 25px 20px;
+
+}

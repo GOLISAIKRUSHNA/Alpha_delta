@@ -1,0 +1,38 @@
+div{
+    height: 50px;
+    width: 200px;
+    background-color: lightcoral;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.one{
+    transform: rotate(-180deg);
+    
+
+}
+.two{
+    /* transform: scale(0.5); */
+    transform: scalex(2);
+
+}
+.three{
+    /* transform: translate(110px,35px); */
+    transform: translateX(200px); 
+    transform: translateX(-200px); 
+
+    /* transform: translateY(300px); */
+
+}
+
+.four{
+    /* transform: skew(30deg); */
+    transform: skew(45deg);
+
+}
+.five{
+    transform: scaleX(2) rotate(30deg);
+}
+

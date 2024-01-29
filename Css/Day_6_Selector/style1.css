@@ -68,3 +68,47 @@ input[type="text"]{
 input[type]{
  border:  orange solid;
 }
+
+
+button:hover{
+    background: #000;
+    color: white;
+}
+
+button:active{
+    background: pink;
+}
+
+
+p:active {
+    font-weight: bold;
+    color:  forestgreen;
+}
+/* .bro:active{
+    background: gold;
+} */
+
+input[type="radio"]:checked +label{
+color: red;
+font-weight: bold;
+}
+
+.new:nth-of-type(3){
+    background-color: lightgreen;
+}
+
+h2::first-letter{
+    color: blue;
+
+}
+p::first-line{
+    color: aqua;
+}
+p::selection{
+    color:silver;
+    background: #000;
+}
+
+h1::first-letter{
+    color:gold;
+}

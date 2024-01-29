@@ -1,0 +1,26 @@
+
+/* div{
+    height: 50px;
+    width: 200px;
+    background: lawngreen;
+    margin:200px auto;
+    /* box-shadow: 8px 4px 1px black; 
+    box-shadow: 8px 8px 20px black;
+
+} */
+
+
+
+
+div{
+    height: 500px;
+    width: 80%;
+    background: lawngreen;
+    margin:40px auto;
+    background-image: url(1.jpg);
+    background-size:cover;
+    color: wheat;
+    border-top-left-radius: 20px;
+    border-radius: 20px 10px 0 0;
+
+}

@@ -1,0 +1,15 @@
+.outer{
+    height: 400px;
+    width: 400px;
+    background: blue;
+    border: 2px solid black;
+    margin: 10px;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background: orange;
+    border: 2px solid black;
+    margin-left: 20%;
+
+}

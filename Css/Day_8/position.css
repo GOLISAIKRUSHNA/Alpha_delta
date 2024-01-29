@@ -1,0 +1,46 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: #7fff00;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.Static{
+    background: orange;
+    position: static;
+    top: 100px;
+    left: 100px;
+}
+
+.Relative{
+    background: orange;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.Absolute{
+    background: orange;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+
+.Fixed{
+    background: orange;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+
+.Sticky{
+    background: orange;
+    position: fixed;
+    top: 100px;
+    left: 800px;
+
+}

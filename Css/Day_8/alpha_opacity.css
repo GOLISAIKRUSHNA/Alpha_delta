@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 400px;
+
+    background-color: rgba(0, 0, 255, 0.7);
+}
+
+
+
+.hii{
+    background:silver;
+    opacity: 0.5;
+    height: 200px;
+    width: 300px;
+}
