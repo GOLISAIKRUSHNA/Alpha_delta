@@ -1,0 +1,64 @@
+
+div{
+    margin: 10px;
+}
+
+#box1 {
+    height: 50px;
+    width: 200px ;
+    background-color:rgba(67, 255, 100, 0.85);
+    transition: width 1s ease-in 0.5s;
+    color: white;
+    
+}
+#box1:hover{
+    width: 300px;
+    background: #000;
+}
+
+#box2{
+    
+        height: 75px;
+        width: 80px ;
+        background-color:rgba(67, 255, 100, 0.85);
+        color: white;
+        transform: translate(400px,100px) rotate(90deg);
+
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    transform: skewX(30deg);
+}
+
+#box4 {
+    width: 100px;
+    height: 100px;
+    background: lightgreen;
+    /* border: solid 2px green; */
+    box-shadow: 10px 8px 8px green;
+    }
+
+
+
+    /* Qs5. Set Your picture or any picture as the background of
+the div
+"myPic". Also, set transparency of this div to 50%. */
+
+#myPic {
+    width: 200px;
+    height: 200px;
+    background: pink;
+    background-image: url(/Css/Day_8/3.jpeg);
+    background-size: cover;
+    color: white;
+    border-radius: 20px;
+    border: #000 solid 2px;
+    text-align: center;
+    margin:auto;
+    /* opacity: 100%; */
+    
+    }
+
